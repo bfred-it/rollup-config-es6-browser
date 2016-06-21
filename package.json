@@ -1,0 +1,19 @@
+{
+  "name": "rollup-config-es6-browser",
+  "version": "0.0.1",
+  "description": "",
+  "license": "MIT",
+  "repository": "bfred-it/rollup-config-es6-browser",
+  "author": "Federico Brigante <bfred-it@users.noreply.github.com> (twitter.com/bfred_it)",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "rollup-plugin-buble": "^0.11.0",
+    "rollup-plugin-uglify": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/bfred-it/rollup-config-es6-browser/issues"
+  },
+  "homepage": "https://github.com/bfred-it/rollup-config-es6-browser#readme"
+}
